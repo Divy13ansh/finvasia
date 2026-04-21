@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+qdrant-client
+langchain
+langchain-openai
+langchain-community
+pymupdf
+httpx
+python-dotenv
+pydantic-settings
+tenacity

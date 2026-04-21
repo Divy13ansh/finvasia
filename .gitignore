@@ -8,3 +8,11 @@ __pycache__/
 logs/
 *.log
 new_fin/
+
+node_modules/
+dist/
+build/
+*.zip
+*.tar.gz
+
+venv11/
