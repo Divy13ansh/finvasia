@@ -42,11 +42,11 @@ The application follows a standard client-server architecture:
                                      │
                               ┌──────┴──────┐
                               │             │
-                         ┌────▼────┐  ┌────▼────┐
-                         │ Qdrant  │  │ Azure   │
-                         │(Vector  │  │ OpenAI  │
-                         │ Store)  │  │         │
-                         └─────────┘  └─────────┘
+                         ┌────▼────┐   ┌────▼────┐
+                         │ Qdrant  │   │ Azure   │
+                         │(Vector  │   │ OpenAI  │
+                         │ Store)  │   │         │
+                         └─────────┘   └─────────┘
 ```
 
 ### Data Flow
